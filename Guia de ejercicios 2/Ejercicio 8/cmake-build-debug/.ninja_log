@@ -1,0 +1,8 @@
+# ninja log v5
+3	341	7454505204163116	build.ninja	9a1ee3032dc0deb2
+2	428	7454505208579418	CMakeFiles/Ejercicio_8.dir/main.cpp.obj	c6cb68d3f5cbade4
+430	796	7454505212212362	Ejercicio_8.exe	a58d32ea8131e4fc
+5	392	7454505349368806	CMakeFiles/Ejercicio_8.dir/main.cpp.obj	c6cb68d3f5cbade4
+392	682	7454505352220699	Ejercicio_8.exe	a58d32ea8131e4fc
+4	388	7454505628686202	CMakeFiles/Ejercicio_8.dir/main.cpp.obj	c6cb68d3f5cbade4
+388	672	7454505631480439	Ejercicio_8.exe	a58d32ea8131e4fc
