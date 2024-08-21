@@ -11,9 +11,7 @@ int main() {
 
     edad = añoA - año;
 
-    if (mes > mesA){
-        edad -= 1;
-    }else if(mes == mesA && dia > diaA){
+    if (mes > mesA || (mes==mesA && dia > diaA)){
         edad -= 1;
     }
     cout << "Su edad actual es: " << edad;
