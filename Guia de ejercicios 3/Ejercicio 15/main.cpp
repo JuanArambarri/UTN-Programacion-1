@@ -15,5 +15,6 @@ int main() {
     }
     if (counter == 7) cout << "Conjunto ordenado" ;
     else cout << "Conjunto no ordenado";
+    
     return 0;
 }
